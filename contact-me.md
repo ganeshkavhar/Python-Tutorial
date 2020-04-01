@@ -7,7 +7,7 @@ it, there are a few ways to contact me:
 
     This is probably the best choice if you had trouble following the
     tutorial, and something in it should be explained better. Click
-    [here](https://github.com/Akuli/python-tutorial/issues/new) to
+    [here](https://github.com/ganeshkavhar/python-tutorial/issues/new) to
     create an issue. You will be asked to create a GitHub account if you
     don't already have one.
 
