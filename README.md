@@ -112,7 +112,7 @@ pull with git and run `make-html.py` again.
 
 I'm Ganesh and I have written most of this tutorial, but these people
 have helped me with it:
-- [ganesh kavhar](ganeshkavhar.github.io)
+- [ganesh kavhar](https://github.com/ganeshkavhar/)
 
 ***
 
